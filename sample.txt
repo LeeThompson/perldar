@@ -1,0 +1,90 @@
+NETGEAR ReadyNAS Status
+Using UPNP-MULTICAST NETGEAR ReadyNAS Perl Communications Library v201003141246
+
+Please Wait...
+Received Data for 5 Unit(s)
+Unit #1:
+      Model: ReadyNAS NV
+         OS: RAIDiator v4.1.6 (Mon Jul 13 13:56:24 2009)
+       Host: NAS03
+         IP: 192.168.0.53
+        MAC: 00:0D:A2:01:0D:F8
+    Cooling: 1829RPM (OK)
+System Temp: 29.5C/85.1F (OK)
+        UPS:  (NOT_PRESENT)
+    Volumes: Volume C: RAID Level X, Redundant. 881199 MB (31%) of 2743 GB used (OK)
+      Disks: 1: 29C/84F (OK); 2: 32C/89F (OK); 3: 32C/89F (OK); 4: 30C/86F (OK)
+     Uptime: N/A
+     Memory: N/A
+  Processes: N/A
+      uname: N/A
+       Boot: Normal
+------------
+Unit #2:
+      Model: ReadyNAS NV
+         OS: RAIDiator v4.1.6 (Mon Jul 13 13:56:24 2009)
+       Host: NAS04
+         IP: 192.168.0.54
+        MAC: 00:0D:A2:01:16:9B
+    Cooling: 1875RPM (OK)
+System Temp: 31.0C/87.8F (OK)
+        UPS:  (NOT_PRESENT)
+    Volumes: Volume C: RAID Level X, Redundant. 1278173 MB (45%) of 2743 GB used (OK)
+      Disks: 1: 33C/91F (OK); 2: 35C/95F (OK); 3: 33C/91F (OK); 4: 30C/86F (OK)
+     Uptime: N/A
+     Memory: N/A
+  Processes: N/A
+      uname: N/A
+       Boot: Normal
+------------
+Unit #3:
+      Model: ReadyNAS NV
+         OS: RAIDiator v4.1.6 (Mon Jul 13 13:56:24 2009)
+       Host: NAS05
+         IP: 192.168.0.55
+        MAC: 00:0D:A2:01:23:9D
+    Cooling: 2027RPM (OK)
+System Temp: 28.5C/83.3F (OK)
+        UPS:  (NOT_PRESENT)
+    Volumes: Volume C: RAID Level X, Redundant. 2248480 MB (80%) of 2738 GB used (OK)
+      Disks: 1: 30C/86F (OK); 2: 34C/93F (OK); 3: 42C/107F (OK); 4: 36C/96F (OK)
+     Uptime: N/A
+     Memory: N/A
+  Processes: N/A
+      uname: N/A
+       Boot: Normal
+------------
+Unit #4:
+      Model: ReadyNAS NV+
+         OS: RAIDiator v4.1.6 (Mon Jul 13 13:56:24 2009)
+       Host: NAS06
+         IP: 192.168.0.56
+        MAC: 00:0D:A2:01:81:11
+    Cooling: 2083RPM (OK)
+System Temp: 27.5C/81.5F (OK)
+        UPS:  (NOT_PRESENT)
+    Volumes: Volume C: RAID Level X, Redundant. 1266988 MB (45%) of 2743 GB used (OK)
+      Disks: 1: 26C/78F (OK); 2: 28C/82F (OK); 3: 30C/86F (OK); 4: 27C/80F (OK)
+     Uptime: N/A
+     Memory: N/A
+  Processes: N/A
+      uname: N/A
+       Boot: Normal
+------------
+Unit #5:
+      Model: ReadyNAS NV
+         OS: RAIDiator v4.1.6 (Mon Jul 13 13:56:24 2009)
+       Host: NAS07
+         IP: 192.168.0.57
+        MAC: 00:0D:A2:01:18:17
+    Cooling: 2027RPM (OK)
+System Temp: 29.5C/85.1F (OK)
+        UPS:  (NOT_PRESENT)
+    Volumes: Volume C: RAID Level X, Redundant. 1554916 MB (54%) of 2776 GB used (OK)
+      Disks: 1: 28C/82F (OK); 2: 35C/95F (OK); 3: 34C/93F (OK); 4: 30C/86F (OK)
+     Uptime: N/A
+     Memory: N/A
+  Processes: N/A
+      uname: N/A
+       Boot: Normal
+------------

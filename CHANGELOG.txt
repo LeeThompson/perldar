@@ -1,0 +1,22 @@
+200904300056	Added code so duplicate MAC addresses are filtered out.
+		Added loader library (optional) and updated samples to use it.
+		Removed Documentation from library comments (see README.txt instead)
+		Updated Documentation.
+
+200904301756	Added code so duplicate hostnames addresses are filtered out. (optional)
+		Put in error checks in SNMP library for devices/computers that aren't ReadyNAS.
+		Put in some error checks in the UPNP libraries for devices/computers that aren't ReadyNAS.
+
+
+200905011057	Added support for setSocketTimeout to SNMP library.
+		Fixed issue where UPNP libraries were defaulting to the wrong address in some situations.
+
+		
+200905062236	Added "hybrid" library.  Uses unicast UPNP for discovery and information and then SNMP for additional information
+		Added "memory", "processes" and "uname" properties.
+
+
+201003141246	Added code to handle file check and volume expansion progress.
+		Added code to handle a situation where the ReadyNAS does not send the enclosure.log (fielddata is blank).
+
+
