@@ -4,4 +4,4 @@ perldar is a Perl library (with samples) to gather status information from NETGE
 
 (The project's title is a play on the name of the RAIDar tool used to manage the units from the operating system desktop.)
 
-This project is only useful if you own a NETGEAR ReadyNAS unit(s).
+This project is only useful if you own NETGEAR ReadyNAS unit(s).
